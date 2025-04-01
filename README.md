@@ -1,13 +1,6 @@
-<h1 align="center">Hi 👋, I'm Reynald Al Marion Saga</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h1 align="center">Wow, Godzilla</h1>
+<h3 align="center">brrrt brrrrt ragghhhhh</h3>
 
-- I’m currently working on **my submission for a Game Jam using Godot**
-
-- Ask me about **visual arts, writing, frontend development, and game design.**
-
-- Contact me at **reonsaga31@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
